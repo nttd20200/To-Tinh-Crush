@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Bất ngờ chưa nè hihi, em nè =)))))`,
     btnIntro: 'hihi',
     title: 'Hôm nay em muốn tặng cho anh quà đặc biệt nhân dịp đặc biệt 😙',
-    desc: 'Ỏoo yêu em nhiều hong',
+    desc: 'Ỏoo anh yêu em nhiều hong???',
     btnYes: 'Yêu em rất nhiều',
     btnNo: 'Yêu em vừa vừa',
     question:'Anh đoán đi, tại sao trên thế giới hơn 7 tỉ người mà em lại yêu anh <3',
